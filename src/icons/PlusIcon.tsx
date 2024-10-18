@@ -1,8 +1,8 @@
 function PlusIcon() {
   return (
     <svg
-      width="50"
-      height="auto"
+      width="23"
+      height="23"
       data-slot="icon"
       fill="none"
       stroke-width="1.5"
